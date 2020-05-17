@@ -1,2 +1,3 @@
 <?php
-echo "class1php";
+echo "helloWorld";
+echo "success";
