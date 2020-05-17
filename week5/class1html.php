@@ -7,10 +7,11 @@
 </head>
 <body>
 <?php
-$i = 1;
-while ($i < 100){ //set condition
+$i = 1; //set counter
+while ($i < 100) { //set condition
     echo "<p>Class is over, come back tomorrow</p>"; //do something if condition is true
     $i = $i + 1; //update counter
+}
 ?>
 </body>
 </html>
