@@ -1,7 +1,7 @@
 <?php
 
 $grating = "hello"; // $ is the syntax for variable in php
-$who = "Lei";
+$who = "World";
 
 echo $grating;
 echo $who;
