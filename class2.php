@@ -4,7 +4,7 @@ $grating = "hello"; // $ is the syntax for variable in php
 $who = "Lei";
 
 echo $grating;
-echo $who
+echo $who;
 
 echo "<h1>" . $grating . " " . $who . "</h1>"; //dot means merge string in php
 
